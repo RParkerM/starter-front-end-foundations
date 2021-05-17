@@ -1,0 +1,9 @@
+p {
+  font-size: 14 px;
+}
+
+@media (min-width: 800px) {
+  p {
+    font-size: 24px;
+  }
+}
